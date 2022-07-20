@@ -1,3 +1,7 @@
+![snake gif](https://github.com/PedroFirmiano/PedroFirmiano/blob/output/github-contribution-grid-snake.svg)
+
+
+
 ### Olá, meu nome é Pedro 👋
 
 - Trabalho na accurate Software e para o banco BS2 como terceiro. Estou todo dia querendo aprender mais sobre tecnologias, focando principalmente em backend e dados.
