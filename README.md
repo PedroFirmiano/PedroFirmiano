@@ -4,7 +4,7 @@
 
 ### Olá, meu nome é Pedro 👋
 
-- Trabalho na accurate Software e para o banco BS2 como terceiro. Estou todo dia querendo aprender mais sobre tecnologias, focando principalmente em backend e dados.
+- Trabalho na accurate Software e para o banco BS2 como terceiro. Estou todo dia querendo aprender mais sobre tecnologias, focando principalmente em backend e nuvem.
 
 #### Estou estudando:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
